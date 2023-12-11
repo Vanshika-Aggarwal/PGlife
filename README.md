@@ -2,8 +2,6 @@ PG Life Web Application:-
 --------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------
 
-This web app is hosted online at:- Successfully completed a 8 weeks online certified training on Web Development. The training consisted of HTML, CSS, Bootstrap, DBMS, PHP, JS, React, and Final Project modules. I scored 97% in the final assessment and was a top performer in the training.
-Entire web-app is fully responsive and is operational from any device.
 
 Tech Stack:- HTML, CSS, Bootstrap 5, Javascript, AJAX, PHP, MySQL.
 
